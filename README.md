@@ -1,16 +1,125 @@
-### Hi there 👋
+## Hi, I'm Tran Minh Hieu (aka MHP) 💕
 
-<!--
-**MHP0920/MHP0920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Giới thiệu (Introduction)
+- My real name: ✨ Trần Minh Hiếu (Tran Minh Hieu) ✨
+- Place where I live: ✨ Thành phố Thủ Đức, Việt Nam (Thu Duc City, Vietnam) ✨
+- My current job 🤔: Học sinh, lập trình viên tự do (Student, Freelancer) 
+- My birthday 🎂: xx - xx - 2009
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Sở thích của mình (Interests)
+- Nghe nhạc lofi (Listen to Lo-Fi music) 🎶
+- Xem anime (Watch Anime) 
+- Chơi điện tử (Play games) 🔥
+- Nhắn tin với người yêu (Chat with my lover) 💖
+- Lập trình (Programming)
+
+### Người yêu của mình (My lover)
+- Mình hong nói âu (I don't want to spoil yet) 👽
+
+### Ngôn ngữ mình đang học (Still learning/learned Programming Language) 💻
+
+ 
+ 　　　　　　　　　⬛⬛⬛⬛⬛⬛　　　　　　　　　　<br>
+　　　　　　　　⬛🟩🟩🟩🟩🟩🟩⬛　　　　　　　　　<br>
+　　　　　　　⬛🟩🟩🟩🟩🟩🟩🟩🟩⬛　　　　　　　　<br>
+　　　　　　⬛⬛🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛　　　　　　　<br>
+　　　　　　⬛🟩⬛🟩⬛⬛⬛🟩🟩⬛🟩⬛　　　　　　　<br>
+　　　　　　🟩🟩⬛🟩⬛　　⬛⬛🟩⬛　　　　　　　　<br>
+　　　　　　🟩🟩⬛🟩　　　　　⬛　⬛⬛　　　　　　<br>
+　　　　　　⬛⬛🟩🟩⬛　　　　　　⬛　　　　　　　<br>
+　　　　　　⬛🟩🟩🟩🟩⬛　　　　　　　　　　　　　<br>
+　　　　　　　⬛🟩🟩🟩🟩⬛　　　　　　　　　　　　<br>
+　　　　　　　　🟩🟩🟩🟩⬛⬛　　　　　　　　　　　<br>
+　　　　　　　　⬛🟩🟩🟩⬛🟩⬛　　　　　　　　　　<br>
+　　　　　　　　　⬛🟩🟩⬛🟩🟩⬛　　　　　　　　　<br>
+　⬛🟩⬛　⬛🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛　　　　　<br>
+　⬛🟩⬛　⬛🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛⬛🟩🟩⬛　　　　　<br>
+　🟩🟩⬛　⬛🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛🟩⬛　　　　　<br>
+　🟩🟩⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛　　　　<br>
+⬛🟩🟩⬛🟩🟩🟩🟩🟩🟩🟩⬛🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛　　　<br>
+⬛🟩🟩🟩🟩🟩🟩🟩⬛🟩🟩⬛🟩🟩🟩🟩🟩⬛⬛⬛🟩🟩⬛　　<br>
+⬛🟩🟩⬛🟩🟩🟩🟩🟩⬛⬛🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛🟩　　　<br>
+⬛🟩🟩🟩⬛⬛⬛⬛⬛⬛⬛⬛🟩⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛　<br>
+⬛🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛🟩🟩🟩⬛🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛<br>
+　⬛🟩⬛⬛⬛🟩🟩🟩🟩🟩🟩🟩⬛🟩🟩🟩🟩🟩⬛⬛⬛🟩🟩⬛<br>
+　⬛⬛🟩🟩🟩⬛🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛🟩⬛<br>
+　　　⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛　<br>
+- [Python](https://python.org) 🐍
+<br>
+<br>
+<br>
+
+💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛<br>
+💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛<br>
+💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛<br>
+💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛<br>
+💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛<br>
+💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛<br>
+💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛<br>
+💛💛💛💛💛💛💛🖤💛💛🖤🖤🖤💛💛<br>
+💛💛💛💛💛💛💛🖤💛🖤🖤💛🤎💛💛<br>
+💛💛💛💛💛💛💛🖤💛🤎🖤🖤💛💛💛<br>
+💛💛💛💛💛💛💛🖤💛💛🖤🖤🖤💛💛<br>
+💛💛💛💛💛💛💛🖤💛💛💛💛🖤🖤💛<br>
+💛💛💛💛🖤🖤🖤🖤💛🖤🖤💛🖤🖤💛<br>
+💛💛💛💛💛🖤🖤💛💛💛🖤🖤🖤💛💛<br>
+💛💛💛💛💛💛💛💛💛💛💛💛💛💛💛<br>
+- [Javascript](https://www.javascript.com/)
+
+　　　　　　　　　　　　　　　　　　　　　　　　　<br>
+　　　　　　　　　　　　　　　　　　　　　　　　　<br>
+　　　　　　　　　　　　　　　　　　　　　　　　　<br>
+🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧　　　　<br>
+🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧　　　　<br>
+🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧　　　　<br>
+🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧　　　　<br>
+🟧🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜⬜🟧🟧🟧🟧　　　　<br>
+🟧🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜⬜🟧🟧🟧🟧　　　　<br>
+🟧🟧🟧🟧⬜⬜🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧　　　　<br>
+🟧🟧🟧🟧⬜⬜🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧　　　　<br>
+🟧🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜⬜🟧🟧🟧🟧　　　　<br>
+🟧🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜⬜🟧🟧🟧🟧　　　　<br>
+　🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧⬜⬜🟧🟧🟧　　　　　<br>
+　🟧🟧🟧⬜⬜🟧🟧🟧🟧🟧⬜⬜🟧🟧🟧　　　　　<br>
+　🟧🟧🟧⬜⬜⬜🟧🟧🟧⬜⬜⬜🟧🟧🟧　　　　　<br>
+　🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜⬜🟧🟧🟧　　　　　<br>
+　🟧🟧🟧🟧🟧⬜⬜⬜⬜⬜🟧🟧🟧🟧🟧　　　　　<br>
+　🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧　　　　　<br>
+　🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧　　　　　<br>
+　　🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧　　　　　　<br>
+　　　　　🟧🟧🟧🟧🟧🟧🟧　　　　　　　　　<br>
+- [HTML](https://en.wikipedia.org/wiki/HTML)
+<br><br><br>
+
+　🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦　<br>
+　🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦　<br>
+　🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦　<br>
+　🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦　<br>
+　　🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜🟦🟦🟦　　<br>
+　　🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜🟦🟦🟦　　<br>
+　　🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜🟦🟦🟦　　<br>
+　　🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜🟦🟦🟦　　<br>
+　　🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜🟦🟦🟦　　<br>
+　　🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜🟦🟦🟦　　<br>
+　　🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜🟦🟦🟦　　<br>
+　　🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜🟦🟦🟦　　<br>
+　　🟦🟦🟦🟦⬜🟦🟦🟦🟦🟦🟦⬜🟦🟦🟦🟦　　<br>
+　　🟦🟦🟦🟦⬜⬜🟦🟦🟦🟦⬜⬜🟦🟦🟦🟦　　<br>
+　　🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜🟦🟦🟦🟦　　<br>
+　　🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦　　<br>
+　　🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦　　<br>
+　　🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦　　<br>
+　　　　🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦　　　　<br>
+　　　　　　🟦🟦🟦🟦🟦🟦🟦🟦　　　　　　<br>
+- [CSS](https://en.wikipedia.org/wiki/CSS)
+
+### Github Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MHP0920&theme=black-ice&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+### Team 💪
+- Mình hiện tại chưa có team, là một lập trình viên đơn (I don't have a team right now, I'm a single programmer)
+
+### Liên hệ (Contact) 📱
+- [Facebook: py.hacker.hieu](https://fb.com/py.hacker.hieu)
+- [Mail: Admin Hieudeeptry](mailto:admin@hieudeeptry.ml)
