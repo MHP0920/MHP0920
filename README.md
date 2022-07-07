@@ -5,6 +5,7 @@
 - My real name: ✨ Trần Minh Hiếu (Tran Minh Hieu) ✨
 - Place where I live: ✨ Thành phố Thủ Đức, Việt Nam (Thu Duc City, Vietnam) ✨
 - My current job 🤔: Học sinh, lập trình viên tự do (Student, Freelance Programmer) 
+- My school: Trường THCS Hoa Lư Quận 9 (Hoa Lu Secondary School District 9)
 - My birthday 🎂: xx - xx - 2009
 
 ### Sở thích của mình (Interests)
