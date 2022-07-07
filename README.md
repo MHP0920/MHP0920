@@ -114,8 +114,11 @@
 　　　　　　🟦🟦🟦🟦🟦🟦🟦🟦　　　　　　<br>
 - [CSS](https://en.wikipedia.org/wiki/CSS)
 
-### Github Stats
+### Github Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MHP0920&theme=black-ice&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+### Github Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MHP0920&theme=radical&hide_border=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Team 💪
 - Mình hiện tại chưa có team, là một lập trình viên đơn (I don't have a team right now, I'm a single programmer)
