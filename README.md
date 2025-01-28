@@ -130,10 +130,10 @@
 ![Graph](https://activity-graph.herokuapp.com/graph?username=MHP0920&theme=redical)
 
 ### Team 💪
-- Mình hiện tại chưa có team, là một lập trình viên đơn (I don't have a team right now, I'm a single programmer)
+- MHP Team go go go
 
 ### Liên hệ (Contact) 📱
 - [Facebook: py.hacker.hieu](https://fb.com/py.hacker.hieu)
-- [Mail: Admin Hieudeeptry](mailto:admin@hieudeeptry.ml)
+- [Mail: Team leader](mailto:teamleader@mhpteam.dev)
 
 <a href="https://www.buymeacoffee.com/py.hacker.hieu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
